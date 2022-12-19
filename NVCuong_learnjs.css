@@ -1,6 +1,20 @@
 /* 
 Những kiến thức đã học
     1.vidu
+    
 Những chức năng có thể ứng dụng được 
     1.show/hide
+*/
+
+/* 
+Git 
+git clone + link => clone code
+git push
+    git init => tạo repo ở máy
+    git status => check trạng thái 
+    git add . => đẩy hết file vào 1 nơi chuẩn bị commit
+    git commit -m "comment" => mô tả chỉnh sửa
+    git branch + tên(master, name....) => nhảy đến nhánh name
+    git remote add origin + link => đẩy code lên link
+    git push origin + name
 */
