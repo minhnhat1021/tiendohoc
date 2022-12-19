@@ -18,4 +18,6 @@ git push
     git remote add origin + link => đẩy code lên link
     git push origin + name
     git checkout name => chuyển đến nhánh name
+    git merge + name => gộp code của nhánh name vào nhánh đang ở
+    
 */
