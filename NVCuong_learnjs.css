@@ -1,9 +1,10 @@
 /* 
 Những kiến thức đã học
-    1.vidu
+    1. mấy kiến thức để lấy dữ liệu từ back-end(kết nối, nhận dữ liệu...)
     
 Những chức năng có thể ứng dụng được 
     1.show/hide
+    hiện tại không ứng dụng được bởi vì phải có cái để mà cho vào code chứ
 */
 
 /* 
@@ -19,5 +20,5 @@ git push
     git push origin + name
     git checkout name => chuyển đến nhánh name
     git merge + name => gộp code của nhánh name vào nhánh đang ở
-    
+    git pull => đồng bộ code 
 */
