@@ -14,7 +14,8 @@ git push
     git status => check trạng thái 
     git add . => đẩy hết file vào 1 nơi chuẩn bị commit
     git commit -m "comment" => mô tả chỉnh sửa
-    git branch + tên(master, name....) => nhảy đến nhánh name
+    git branch + tên(master, name....) => tạo branch name
     git remote add origin + link => đẩy code lên link
     git push origin + name
+    git checkout name => chuyển đến nhánh name
 */
