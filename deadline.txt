@@ -1,0 +1,28 @@
+NỘI QUY : Chậm deadline là phạt code FE or BE tùy vào đối phương 
+          Ngày lẻ update tiến trình vào 21h tối
+
+          Update : 25/12/2022
+
+MINH : Responsive web the band
+  
+
+CƯỜNG : JS. B196 Code Music Player
+            B197 Cách làm Toast Message
+
+Phạt 25/12/2022
+  Minh 
+    PJ quản lý chi tiêu 
+    Deadline : 1/1/2023
+
+UPDATE : 
+  - Cài skype
+  - https://coolors.co/ : web lấy màu 
+  - https://tabler-icons.io/ : web cung cấp icons 
+
+
+  Update : 25/12/2022
+
+
+
+
+
