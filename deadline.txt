@@ -7,7 +7,7 @@ NỘI QUY : Chậm deadline là phạt code FE or BE tùy vào đối phương
           
 
 MINH : Responsive web the band
-  
+       Đã tạo tài khoản skype
 
 CƯỜNG : JS. B196 Code Music Player
             B197 Cách làm Toast Message
