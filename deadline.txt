@@ -12,6 +12,10 @@ MINH : Responsive web the band
 CƯỜNG : JS. B196 Code Music Player
             B197 Cách làm Toast Message
 
+            27/12: 
+              + xong Toast Message
+              + code xong giao diện music 
+
 Phạt 25/12/2022
   Minh 
     PJ quản lý chi tiêu 
