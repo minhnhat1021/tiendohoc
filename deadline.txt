@@ -5,7 +5,9 @@ NỘI QUY :
 Deadline: (25/12/22 -> 01/01/23)
   MINH :
     Responsive web the band
-    tạo tài khoản skype - done
+    Tạo tài khoản skype - done
+    Học làm web the band - done 
+    Clone lại web the band - bắt đầu thực hiện // 12:00 31/12/2022 
 
   CƯỜNG :
     B196 Code Music Player - done
